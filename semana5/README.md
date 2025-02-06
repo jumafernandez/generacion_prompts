@@ -1,3 +1,3 @@
-# IA: Generación de prompts
+# Semana 5: Generación de prompts
 
-En este repositorio se almacenan recursos complementarios del curso ***IA: Generación de Prompts*** de Coderhouse, diseñados para las cursadas de 2025.
+En este directorio se almacenan recursos complementarios para la cursada 2025.
